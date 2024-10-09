@@ -36,7 +36,7 @@ const Navbar = () => {
                             className='border border-[#e5eaf2] py-3 pl-4 pr-[100px] outline-none w-full rounded-md' />
 
                         <span
-                            className='bg-gray-300 text-gray-500 absolute top-0 right-0 h-full px-5 flex items-center justify-center rounded-r-md cursor-pointer hover:bg-gray-400 hover:text-gray-200'>Search</span>
+                            className='bg-[#6c7fd8] text-white absolute top-0 right-0 h-full px-5 flex items-center justify-center rounded-r-md cursor-pointer hover:bg-gray-400 hover:text-gray-200'>Search</span>
                     </div>
                 </div>
                 <div className=" flex lg:mt-0 pt-5 items-center md:mx-auto md:pt-4 gap-10   ">

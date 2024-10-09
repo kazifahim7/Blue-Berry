@@ -7,7 +7,9 @@ export default {
   theme: {
     extend: {
       colors: {
-        'outline-text': '#F8F8FB', // Adjust stroke color if needed
+        'outline-text': '#F8F8FB',
+         // Adjust stroke color if needed
+        "main-colors": '#6c7fd8'
       },
     },
   },

@@ -7,7 +7,7 @@ AOS.init();
 
 const Explore = () => {
     return (
-        <div className='flex items-center gap-10 lg:container mx-auto md:container my-10'>
+        <div className='flex lg:flex-row md:flex-row flex-col items-center gap-10 lg:container mx-auto md:container pt-24'>
             {/* Image section */}
             <div data-aos="fade-up-right" data-aos-easing="ease-out-cubic"
                 data-aos-duration="2000" className='relative z-10 w-[50%]'>
