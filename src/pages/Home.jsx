@@ -5,6 +5,7 @@ import Card from './Card';
 import DiscountBanner from './DiscountBanner';
 import Support from './Support';
 import TopVendors from './TopVendors';
+import Team from './Team';
 
 const Home = () => {
     return (
@@ -15,6 +16,8 @@ const Home = () => {
          <DiscountBanner></DiscountBanner>
          <Support></Support>
          <TopVendors></TopVendors>
+         <Team></Team>
+
         </div>
     );
 };
